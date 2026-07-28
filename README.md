@@ -191,9 +191,6 @@ Upload to GitHub Pages for free hosting.
       background-color: #f7ca00;
     }
 
-    /* =====================================
-      TOP HEADER  (Flexbox)
-      ===================================== */
     .top-header {
       background-color: #131921;
       padding: 12px 20px;
@@ -239,9 +236,6 @@ Upload to GitHub Pages for free hosting.
       background-color: #f3a847;
     }
 
-    /* =====================================
-      CATEGORY NAVIGATION  (Flexbox)
-      ===================================== */
     .category-nav {
       background-color: #232f3e;
       display: flex;
@@ -261,9 +255,7 @@ Upload to GitHub Pages for free hosting.
       text-decoration: underline;
     }
 
-    /* =====================================
-      PRODUCTS SECTION  (Flexbox)
-      ===================================== */
+
     .products-section {
       padding: 40px 20px;
       max-width: 1200px;
@@ -320,9 +312,6 @@ Upload to GitHub Pages for free hosting.
       width: 100%;
     }
 
-    /* =====================================
-      FOOTER  (Flexbox)
-      ===================================== */
     .site-footer {
       background-color: #232f3e;
       color: #ffffff;
@@ -363,9 +352,6 @@ Upload to GitHub Pages for free hosting.
       color: #cccccc;
     }
 
-    /* =====================================
-      RESPONSIVE (basic)
-      ===================================== */
     @media (max-width: 700px) {
       .top-header {
         flex-wrap: wrap;
